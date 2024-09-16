@@ -1,12 +1,12 @@
 const RECOMMENDATIONS = [
-  {
-    name: "Kelton Bingham",
-    role: "Senior Manager at BDO in Australia",
-    image: "/images/KeltonBingham.jpg",
-    link: "#0",
-    content:
-      "I had the pleasure of working with Zhifa on the development of our website, 'Investment Horizon'. Zhifa's in-depth expertise as a full stack developer was instrumental in adding the functional complexities and performance required to bring our website to life.",
-  },
+  // {
+  //   name: "Kelton Bingham",
+  //   role: "Senior Manager at BDO in Australia",
+  //   image: "/images/KeltonBingham.jpg",
+  //   link: "#0",
+  //   content:
+  //     "I had the pleasure of working with Zhifa on the development of our website, 'Investment Horizon'. Zhifa's in-depth expertise as a full stack developer was instrumental in adding the functional complexities and performance required to bring our website to life.",
+  // },
   {
     name: "Annie Chong",
     role: "Senior IT Consultant",
